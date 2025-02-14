@@ -13,7 +13,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/zu_azteca_uno/vmx/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://edgelb.stargroup.com.mx:9002/
+#KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8063/?imagentv
 #EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
