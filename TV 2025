@@ -3,7 +3,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8063/
-#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
+#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="101" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1111030-8c.png" group-title="TV NACIONAL",AZTECA UNO
@@ -14,7 +14,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/zu_azteca_uno/vmx/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8063/
-#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
+#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="103" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="TV NACIONAL",IMAGEN TV
@@ -25,7 +25,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/imagen_tv/vmx/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8063/
-#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
+#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="107" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png" group-title="TV NACIONAL",AZTECA 7
@@ -36,7 +36,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/zu_azteca_siete/vmx/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8063/
-#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/:
+#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="111" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="TV NACIONAL",ONCE
