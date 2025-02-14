@@ -72,7 +72,7 @@ https://livedashmx.cdn.startv.tv/bpk-tv/tv_unam/vmx/index.mpd
 #EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="122" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496852-8c.png" group-title="TV NACIONAL",TV UNAM
+#EXTINF:-1 tvg-id="122" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496852-8c.png" group-title="TV NACIONAL",CANAL 22
 https://livedashmx.cdn.startv.tv/bpk-tv/canal_22/vmx/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -83,7 +83,18 @@ https://livedashmx.cdn.startv.tv/bpk-tv/canal_22/vmx/index.mpd
 #EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="145" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425505-8c.png" group-title="TV NACIONAL",TV UNAM
+#EXTINF:-1 tvg-id="145" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425505-8c.png" group-title="TV NACIONAL",CANAL DEL CONGRESO
 https://livedashmx.cdn.startv.tv/bpk-tv/congreso/vmx/index.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://endpoints-startv.cef-technology.com:8063/?deviceId=NjY4Y2Y0Y2UtZTU4NC00Mzg0LWE5ZTAtM2MyMDM1YTYxYzY2
+#EXTVLCOPT:http-referrer=https://edgelb.stargroup.com.mx/
+#EXTVLCOPT:caché de rojo=1000
+#EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="145" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_149.png" group-title="TV NACIONAL",CANAL DEL CONGRESO
+https://livedashmx.cdn.startv.tv/bpk-tv/la_mexicana_tv/vmx/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
