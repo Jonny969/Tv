@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://edge.prod.ovp.ses.com:4446/xtv-ws-client/api/content/list/tv_channel/211?page=0&size=1&dateFrom=1740090661350&dateTo=0
+#KODIPROP:inputstream.adaptive.license_key=https://edge.prod.ovp.ses.com:9443/xtv-ws-client/api/config/extapps/7bec4aa0-cb3e-45c3-b5f5-a0cc64dda00b?timestamp=1740090217327
 #EXTVLCOPT:http-referrer=https://mvshub.com.mx
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Geck Chrome/130.0.0.0 Mobile Safari/537.36
